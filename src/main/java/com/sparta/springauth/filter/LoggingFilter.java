@@ -1,10 +1,9 @@
-package com.sparta.springauth.fillter;
+package com.sparta.springauth.filter;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.annotation.Order;
-import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
